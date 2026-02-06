@@ -3,9 +3,17 @@
 </div>
 
 <div>
-    <a href="https://github.com/Joacsnk">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joacsnk&show_icons=true&theme=dark&commits_year=2026&hide=contribs&count_private=true"/>
+  <a href="https://github.com/Joacsnk">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api
+      ?username=Joacsnk
+      &show_icons=true
+      &theme=dark
+      &hide=contribs
+      &cache_seconds=86400"/>
+  </a>
 </div>
+
 
 ## 
 
@@ -39,13 +47,16 @@
 </i>
 
 <div>
-    <br/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joacsnk&hide=Powershell,Batchfile&hide_title=true&theme=dark"/>
+  <br/>
+  <img height="180em" align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/
+    ?username=Joacsnk
+    &hide=Batchfile
+    &hide_title=true
+    &theme=dark
+    &cache_seconds=86400"/>
 </div>
 
-## Masterpieces:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joacsnk&repo=Atividade-Curso-Portugol)](https://github.com/Joacsnk/Atividade-Curso-Portugol)
 
 
 
