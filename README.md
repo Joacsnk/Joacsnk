@@ -44,6 +44,8 @@
     "The only true wisdom is in knowing you know nothing." 
     <br/>
     Sócrates
+    <br/>
+    <br/>
 </i>
 
 [![roadmap.sh](https://roadmap.sh/card/tall/667ac7a0c19525099e5cf439?variant=dark&roadmaps=sql%2Cpython)](https://roadmap.sh)
