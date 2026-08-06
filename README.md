@@ -46,6 +46,8 @@
     Sócrates
 </i>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/667ac7a0c19525099e5cf439?variant=dark&roadmaps=sql%2Cpython)](https://roadmap.sh)
+
 <div>
   <br/>
   <img height="180em" align="center"
