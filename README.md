@@ -1,75 +1,45 @@
-<div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&size=30&duration=2000&pause=1000&color=ffff00&background=7C0FFF00&width=435&lines=Jack%2C;The+legendary+developer;(I+don't+like+coffee)" alt="Typing SVG" /></a>
-</div>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div>
-  <a href="https://github.com/Joacsnk">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api
-      ?username=Joacsnk
-      &show_icons=true
-      &theme=dark
-      &hide=contribs
-      &cache_seconds=86400"/>
-  </a>
-</div>
-
-
-## 
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<div style="display: inline_block">
-    <br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-</div>
-
-<div style="display: inline_block">
-    <br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-
-<br/>
+## Hello! Welcome to Jack's repository
 
 <i>
-    "The only true wisdom is in knowing you know nothing." 
-    <br/>
+    "The only true wisdom is in knowing you know nothing."
+    </br>
+    <b>
     Sócrates
-    <br/>
-    <br/>
+    </b>
 </i>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/667ac7a0c19525099e5cf439?variant=dark&roadmaps=sql%2Cpython)](https://roadmap.sh)
+---
 
-<div>
-  <br/>
-  <img height="180em" align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/
-    ?username=Joacsnk
-    &hide=Batchfile
-    &hide_title=true
-    &theme=dark
-    &cache_seconds=86400"/>
-</div>
-
-
+<p>
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=Joacsnk&hide_title=True&theme=dark&card_width=450px&&include_all_commits=True&hide=contribs"
+    width="450"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Joacsnk&hide_title=True&theme=dark&card_width=500px"
+    width="520"
+  />
+</p>
 
 
-##
+<img src="https://skillicons.dev/icons?i=py,flask,django,js,html,css">
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,windows,linux,ubuntu,vscode,md" >
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonlobo7/)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joacsnk/Joacsnk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joacsnk/Joacsnk/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joacsnk/Joacsnk/output/github-contribution-grid-snake.svg">
-</picture>
+
+<p>
+  <a href="https://www.linkedin.com/in/jacksonlobo7/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+
+  <a href="mailto:joacsnk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</p>
+
+---
+
+![Snake animation](https://github.com/joacsnk/joacsnk/blob/output/github-contribution-grid-snake.svg)
