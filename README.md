@@ -14,11 +14,11 @@
 
 <p>
   <img 
-    src="https://github-stats-extended.vercel.app/api?username=Joacsnk&hide_title=True&theme=dark&card_width=375px&include_all_commits=True&hide=contribs"
+    src="https://github-stats-extended.vercel.app/api?username=Joacsnk&hide_title=True&theme=default&card_width=375px&include_all_commits=True&hide=contribs"
     width="375"
   />
   <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Joacsnk&hide_title=True&theme=dark&card_width=400px"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Joacsnk&hide_title=True&theme=default&card_width=400px"
     width="415"
   />
 </p>
