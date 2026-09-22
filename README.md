@@ -18,8 +18,8 @@
     width="450"
   />
   <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Joacsnk&hide_title=True&theme=dark&card_width=500px"
-    width="520"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Joacsnk&hide_title=True&theme=dark&card_width=400px"
+    width="420"
   />
 </p>
 
