@@ -14,8 +14,8 @@
 
 <p>
   <img 
-    src="https://github-stats-extended.vercel.app/api?username=Joacsnk&hide_title=True&theme=dark&card_width=350px&include_all_commits=True&hide=contribs"
-    width="350"
+    src="https://github-stats-extended.vercel.app/api?username=Joacsnk&hide_title=True&theme=dark&card_width=375px&include_all_commits=True&hide=contribs"
+    width="375"
   />
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs?username=Joacsnk&hide_title=True&theme=dark&card_width=400px"
